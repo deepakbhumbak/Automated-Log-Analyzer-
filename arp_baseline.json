@@ -1,0 +1,30 @@
+[
+    {
+        "timestamp": "2026-09-11 08:57:22",
+        "ip": "192.168.1.1",
+        "mac": "00:11:22:33:44:55",
+        "type": "static",
+        "status": "VALIDATED"
+    },
+    {
+        "timestamp": "2026-09-11 08:57:23",
+        "ip": "192.168.1.100",
+        "mac": "aa:bb:cc:11:22:33",
+        "type": "dynamic",
+        "status": "VALIDATED"
+    },
+    {
+        "timestamp": "2026-09-11 08:57:23",
+        "ip": "192.168.1.105",
+        "mac": "aa:bb:cc:44:55:66",
+        "type": "dynamic",
+        "status": "VALIDATED"
+    },
+    {
+        "timestamp": "2026-09-11 08:57:24",
+        "ip": "192.168.1.1",
+        "mac": "ff:ee:dd:99:88:77",
+        "type": "dynamic",
+        "status": "VALIDATED"
+    }
+]
